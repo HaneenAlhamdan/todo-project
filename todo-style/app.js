@@ -23,4 +23,4 @@ else{
  console.log("your age is",myAge);
 
 
- confirm("Do you want to skip welocming meassge?")
+/confirm("Do you want to skip welocming meassge?")
